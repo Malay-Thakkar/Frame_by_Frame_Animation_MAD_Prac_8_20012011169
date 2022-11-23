@@ -84,5 +84,7 @@
                             app:layout_constraintStart_toEndOf="@id/add_alaram"
                             app:layout_constraintTop_toTopOf="@id/add_alaram" />
                     </androidx.constraintlayout.widget.ConstraintLayout>
+
                 </LinearLayout>
+
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
